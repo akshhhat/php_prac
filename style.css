@@ -1,0 +1,49 @@
+.form{
+    margin-left: 45%;
+}
+.button{
+    margin-top: 50px;
+    padding: 15px;
+    padding-left: 10px;
+}
+.name{
+   
+    font-size:25px;
+}
+
+.gender{
+    font-size: 25px;
+}
+.courses{
+    font-size: 25px;
+}
+.pass{
+   
+    font-size:25px;
+}
+.email{
+    font-size: 25px;
+    
+}
+form{
+padding: 30px;
+}
+.submit{
+    margin-left: 50px;
+}
+.courses{
+    font-size: large;
+}
+body{
+    background-color: antiquewhite;
+}
+#name{
+    margin-left: 40px;
+}
+#Email{
+    margin-left: 38px;
+}
+table,th, tr, td {
+    border: 1px solid black;
+}
+
